@@ -12,6 +12,7 @@
     <modules>
         <module>simple</module>
         <module>simple2</module>
+        <module>jzero-scanner</module>
     </modules>
 
     <properties>
